@@ -15,7 +15,7 @@ Limitations include:
 
 Results from this script have shown that the crosslinking reaction follows the Boltzmann sigmoidal curve.
 
-### A slightly inaccurate non-technical explanation
+### A slightly inaccurate non-technical description
 This script aims to shed some light on the following scenario:
 
 An alien party is hosted and lots of different species of aliens come. Each species has a different number of hands. The host decides to play a prank on its guests and sprays superglue on each of their hands when they enter, such that two aliens will have their hands joined together when they shake hands. With this script and given the number of handshakes that occur during the party, we can determine the different chains of aliens that are stuck together and how many aliens of each species there are in each chain.
